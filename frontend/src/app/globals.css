@@ -1,0 +1,46 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* { box-sizing: border-box; }
+html, body { background: #080d1a; color: #e2e8f0; font-family: 'Inter','Segoe UI',system-ui,sans-serif; height: 100%; margin: 0; overflow: hidden; }
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: #0f172a; }
+::-webkit-scrollbar-thumb { background: #1e3a5f; border-radius: 3px; }
+
+.card   { @apply bg-slate-800 border border-slate-700 rounded-xl; }
+.input  { @apply bg-slate-900 border border-slate-600 text-slate-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-indigo-500 w-full transition-colors; }
+.select { @apply bg-slate-900 border border-slate-600 text-slate-200 rounded-lg px-3 py-2 text-sm focus:outline-none focus:border-indigo-500 w-full transition-colors; }
+.btn-primary { @apply bg-indigo-600 hover:bg-indigo-500 text-white font-medium px-3 py-1.5 rounded-lg transition-colors disabled:opacity-40 disabled:cursor-not-allowed text-sm; }
+.btn-danger  { @apply bg-red-700 hover:bg-red-600 text-white font-medium px-3 py-1.5 rounded-lg transition-colors text-sm; }
+.btn-success { @apply bg-green-700 hover:bg-green-600 text-white font-medium px-3 py-1.5 rounded-lg transition-colors text-sm; }
+.btn-ghost   { @apply bg-slate-700 hover:bg-slate-600 text-slate-200 font-medium px-3 py-1.5 rounded-lg transition-colors text-sm; }
+.btn-warning { @apply bg-amber-700 hover:bg-amber-600 text-white font-medium px-3 py-1.5 rounded-lg transition-colors text-sm; }
+
+.sidebar-panel { @apply overflow-y-auto; scrollbar-width: thin; }
+
+/* Sliding sidebar animation */
+.sidebar-enter  { transform: translateX(100%); }
+.sidebar-active { transform: translateX(0); transition: transform 0.3s cubic-bezier(0.4,0,0.2,1); }
+.sidebar-exit   { transform: translateX(100%); transition: transform 0.3s cubic-bezier(0.4,0,0.2,1); }
+
+/* Log level colours */
+.log-DEBUG     { color: #64748b; }
+.log-INFO      { color: #60a5fa; }
+.log-WARNING   { color: #facc15; }
+.log-ERROR     { color: #f87171; }
+.log-EMERGENCY { color: #fb923c; font-weight: 700; }
+.log-SUCCESS   { color: #4ade80; }
+.log-2PC       { color: #c084fc; }
+.log-RECOVERY  { color: #fbbf24; }
+
+/* Recharts */
+.recharts-default-tooltip {
+  background: #1e293b !important;
+  border: 1px solid #1e3a5f !important;
+  border-radius: 8px !important;
+  font-size: 12px !important;
+}
+
+/* Vehicle animation smoothing — CSS transition on SVG circle */
+.vehicle-dot { transition: cx 0.45s linear, cy 0.45s linear; }

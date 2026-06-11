@@ -1,0 +1,43 @@
+# ── Node.js Dependencies ───────────────────────────────────
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ── Build Directories ──────────────────────────────────────
+# Backend compiled TypeScript
+backend/dist/
+backend/build/
+
+# Frontend compiled Next.js output
+frontend/.next/
+frontend/out/
+frontend/dist/
+
+# ── Environment Secrets ────────────────────────────────────
+# Never commit your database passwords or keys to GitHub
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+neo4j-credentials*.txt
+
+# ── Docker & Database Local Storage ────────────────────────
+# Keeps your local data container folders out of GitHub
+.docker/
+pg_data/
+mongo_data/
+neo4j_data/
+data/
+
+# ── Operating System Junk ──────────────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

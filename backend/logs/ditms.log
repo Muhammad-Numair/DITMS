@@ -1,0 +1,281 @@
+07:00:32 [info] PostgreSQL connected
+07:00:33 [info] MongoDB connected
+07:02:35 [info] PostgreSQL connected
+07:02:35 [info] MongoDB connected
+07:04:52 [info] PostgreSQL connected
+07:04:52 [info] MongoDB connected
+07:04:53 [info] Neo4j connected
+07:05:18 [info] Connecting databases...
+07:05:18 [info] PostgreSQL connected
+07:05:18 [info] MongoDB connected
+07:05:18 [info] Neo4j connected
+07:05:18 [info] Redis connected
+07:05:18 [info] Simulation engine started
+07:05:18 [info] Simulation engine started (synchronous Dijkstra routing)
+07:05:18 [info] DITMS backend  →  http://localhost:5000
+07:05:18 [info] Socket.io  ←→  http://localhost:3000
+07:06:18 [info] Socket connected: 4yeWN7wG-iTM51WNAAAB
+07:13:55 [info] Socket disconnected: 4yeWN7wG-iTM51WNAAAB
+08:47:32 [info] Connecting databases...
+08:47:33 [info] PostgreSQL connected
+08:47:33 [info] MongoDB connected
+08:47:34 [info] Neo4j connected
+08:47:34 [info] Redis connected
+08:47:34 [info] Simulation engine started
+08:47:34 [info] Simulation engine started (synchronous Dijkstra routing)
+08:47:34 [info] DITMS backend  →  http://localhost:5000
+08:47:34 [info] Socket.io  ←→  http://localhost:3000
+08:47:34 [info] Socket connected: 3FvbfuB4R-GEpM9IAAAB
+09:19:24 [warn] Node node_a CRASHED
+09:19:30 [info] Node node_a RECOVERED
+09:59:16 [info] Connecting databases...
+09:59:16 [info] PostgreSQL connected
+09:59:17 [info] MongoDB connected
+09:59:17 [info] Neo4j connected
+09:59:17 [info] Redis connected
+09:59:17 [info] Simulation engine started
+09:59:17 [info] Simulation engine started (synchronous Dijkstra routing)
+09:59:17 [info] DITMS backend  →  http://localhost:5000
+09:59:17 [info] Socket.io  ←→  http://localhost:3000
+09:59:17 [info] Socket connected: JIj5SnGHlpU6hF7kAAAB
+09:59:31 [info] Connecting databases...
+09:59:31 [info] PostgreSQL connected
+09:59:31 [info] MongoDB connected
+09:59:31 [info] Neo4j connected
+09:59:31 [info] Redis connected
+09:59:31 [info] Simulation engine started
+09:59:31 [info] Simulation engine started (synchronous Dijkstra routing)
+09:59:31 [info] DITMS backend  →  http://localhost:5000
+09:59:31 [info] Socket.io  ←→  http://localhost:3000
+09:59:31 [info] Socket connected: 5Xpd-WcV2EfbYxQaAAAB
+09:59:57 [info] Connecting databases...
+09:59:57 [info] PostgreSQL connected
+09:59:57 [info] MongoDB connected
+09:59:57 [info] Neo4j connected
+09:59:57 [info] Redis connected
+09:59:57 [info] Simulation engine started
+09:59:57 [info] Simulation engine started (synchronous Dijkstra routing)
+09:59:57 [info] DITMS backend  →  http://localhost:5000
+09:59:57 [info] Socket.io  ←→  http://localhost:3000
+09:59:57 [info] Socket connected: 8B2pFavLVefpYSX3AAAB
+10:00:00 [info] Connecting databases...
+10:00:00 [info] PostgreSQL connected
+10:00:00 [info] MongoDB connected
+10:00:00 [info] Neo4j connected
+10:00:00 [info] Redis connected
+10:00:00 [info] Simulation engine started
+10:00:00 [info] Simulation engine started (synchronous Dijkstra routing)
+10:00:00 [info] DITMS backend  →  http://localhost:5000
+10:00:00 [info] Socket.io  ←→  http://localhost:3000
+10:00:01 [info] Connecting databases...
+10:00:02 [info] PostgreSQL connected
+10:00:02 [info] MongoDB connected
+10:00:02 [info] Neo4j connected
+10:00:02 [info] Redis connected
+10:00:02 [info] Simulation engine started
+10:00:02 [info] Simulation engine started (synchronous Dijkstra routing)
+10:00:02 [info] DITMS backend  →  http://localhost:5000
+10:00:02 [info] Socket.io  ←→  http://localhost:3000
+10:00:02 [info] Socket connected: yk6eeRmVcuMYBH_TAAAB
+10:00:04 [info] Connecting databases...
+10:00:04 [info] PostgreSQL connected
+10:00:04 [info] MongoDB connected
+10:00:04 [info] Neo4j connected
+10:00:04 [info] Redis connected
+10:00:04 [info] Simulation engine started
+10:00:04 [info] Simulation engine started (synchronous Dijkstra routing)
+10:00:04 [info] DITMS backend  →  http://localhost:5000
+10:00:04 [info] Socket.io  ←→  http://localhost:3000
+10:00:04 [info] Socket connected: b3-znety1H4lIs4lAAAB
+10:00:06 [info] Connecting databases...
+10:00:06 [info] PostgreSQL connected
+10:00:06 [info] MongoDB connected
+10:00:06 [info] Neo4j connected
+10:00:06 [info] Redis connected
+10:00:06 [info] Simulation engine started
+10:00:06 [info] Simulation engine started (synchronous Dijkstra routing)
+10:00:06 [info] DITMS backend  →  http://localhost:5000
+10:00:06 [info] Socket.io  ←→  http://localhost:3000
+10:00:06 [info] Socket connected: HXtHJPqXxKU9vdgHAAAB
+10:00:08 [info] Connecting databases...
+10:00:08 [info] PostgreSQL connected
+10:00:08 [info] MongoDB connected
+10:00:09 [info] Connecting databases...
+10:00:09 [info] PostgreSQL connected
+10:00:09 [info] MongoDB connected
+10:00:09 [info] Neo4j connected
+10:00:09 [info] Redis connected
+10:00:09 [info] Simulation engine started
+10:00:09 [info] Simulation engine started (synchronous Dijkstra routing)
+10:00:09 [info] DITMS backend  →  http://localhost:5000
+10:00:09 [info] Socket.io  ←→  http://localhost:3000
+10:00:10 [info] Socket connected: hE0etVQDsyqJHxbRAAAB
+10:01:58 [info] Simulation engine started
+10:02:02 [info] Simulation engine started
+10:02:28 [info] Connecting databases...
+10:02:28 [info] PostgreSQL connected
+10:02:28 [info] MongoDB connected
+10:02:28 [info] Neo4j connected
+10:02:28 [info] Redis connected
+10:02:28 [info] Simulation engine started
+10:02:28 [info] Simulation engine started (synchronous Dijkstra routing)
+10:02:28 [info] DITMS backend  →  http://localhost:5000
+10:02:28 [info] Socket.io  ←→  http://localhost:3000
+10:02:28 [info] Socket connected: byBM6ShFm2w-s7YEAAAB
+10:02:31 [info] Connecting databases...
+10:02:31 [info] PostgreSQL connected
+10:02:31 [info] MongoDB connected
+10:02:31 [info] Neo4j connected
+10:02:31 [info] Redis connected
+10:02:31 [info] Simulation engine started
+10:02:31 [info] Simulation engine started (synchronous Dijkstra routing)
+10:02:31 [info] DITMS backend  →  http://localhost:5000
+10:02:31 [info] Socket.io  ←→  http://localhost:3000
+10:02:31 [info] Socket connected: jCe6HHMi77pjsEGfAAAB
+10:02:34 [info] Connecting databases...
+10:02:34 [info] PostgreSQL connected
+10:02:34 [info] MongoDB connected
+10:02:34 [info] Neo4j connected
+10:02:34 [info] Redis connected
+10:02:34 [info] Simulation engine started
+10:02:34 [info] Simulation engine started (synchronous Dijkstra routing)
+10:02:34 [info] DITMS backend  →  http://localhost:5000
+10:02:34 [info] Socket.io  ←→  http://localhost:3000
+10:02:34 [info] Socket connected: UcqC3xp-H315RbPhAAAB
+10:02:37 [info] Connecting databases...
+10:02:37 [info] PostgreSQL connected
+10:02:37 [info] MongoDB connected
+10:02:37 [info] Neo4j connected
+10:02:37 [info] Redis connected
+10:02:37 [info] Simulation engine started
+10:02:37 [info] Simulation engine started (synchronous Dijkstra routing)
+10:02:37 [info] DITMS backend  →  http://localhost:5000
+10:02:37 [info] Socket.io  ←→  http://localhost:3000
+10:02:37 [info] Socket connected: -utNB2RffXylcUVvAAAB
+10:02:40 [info] Connecting databases...
+10:02:40 [info] PostgreSQL connected
+10:02:40 [info] MongoDB connected
+10:02:40 [info] Neo4j connected
+10:02:40 [info] Redis connected
+10:02:40 [info] Simulation engine started
+10:02:40 [info] Simulation engine started (synchronous Dijkstra routing)
+10:02:40 [info] DITMS backend  →  http://localhost:5000
+10:02:40 [info] Socket.io  ←→  http://localhost:3000
+10:02:42 [info] Connecting databases...
+10:02:42 [info] PostgreSQL connected
+10:02:42 [info] MongoDB connected
+10:02:42 [info] Neo4j connected
+10:02:42 [info] Redis connected
+10:02:42 [info] Simulation engine started
+10:02:42 [info] Simulation engine started (synchronous Dijkstra routing)
+10:02:42 [info] DITMS backend  →  http://localhost:5000
+10:02:42 [info] Socket.io  ←→  http://localhost:3000
+10:02:43 [info] Socket connected: aiUTltAkDbEgMX07AAAB
+10:02:45 [info] Connecting databases...
+10:02:45 [info] PostgreSQL connected
+10:02:45 [info] MongoDB connected
+10:02:45 [info] Neo4j connected
+10:02:45 [info] Redis connected
+10:02:45 [info] Simulation engine started
+10:02:45 [info] Simulation engine started (synchronous Dijkstra routing)
+10:02:45 [info] DITMS backend  →  http://localhost:5000
+10:02:45 [info] Socket.io  ←→  http://localhost:3000
+10:02:45 [info] Socket connected: 2KouKMbR08TCNK-eAAAB
+10:02:48 [info] Connecting databases...
+10:02:48 [info] PostgreSQL connected
+10:02:48 [info] MongoDB connected
+10:02:48 [info] Neo4j connected
+10:02:48 [info] Redis connected
+10:02:48 [info] Simulation engine started
+10:02:48 [info] Simulation engine started (synchronous Dijkstra routing)
+10:02:48 [info] DITMS backend  →  http://localhost:5000
+10:02:48 [info] Socket.io  ←→  http://localhost:3000
+10:02:48 [info] Socket connected: MnqbCO3-_uTLtpU6AAAB
+10:03:23 [info] Simulation engine started
+10:04:29 [info] Socket disconnected: MnqbCO3-_uTLtpU6AAAB
+10:04:31 [info] Shutting down...
+13:05:59 [info] Connecting databases...
+13:05:59 [info] PostgreSQL connected
+13:05:59 [info] MongoDB connected
+13:06:00 [info] Neo4j connected
+13:06:00 [info] Redis connected
+13:06:00 [info] Simulation engine started
+13:06:00 [info] Simulation engine started (synchronous Dijkstra routing)
+13:06:00 [info] DITMS backend  →  http://localhost:5000
+13:06:00 [info] Socket.io  ←→  http://localhost:3000
+13:06:46 [info] Socket connected: G3ly4Qrf5RkqNecQAAAB
+13:10:38 [warn] Node node_a CRASHED
+13:10:41 [info] Node node_a RECOVERED
+13:10:53 [warn] Node node_a CRASHED
+13:11:01 [info] Node node_a RECOVERED
+13:11:03 [info] Node node_a RECOVERED
+13:11:16 [warn] Node node_a CRASHED
+13:11:18 [info] Node node_a RECOVERED
+13:29:03 [info] Connecting databases...
+13:29:03 [info] PostgreSQL connected
+13:29:03 [info] MongoDB connected
+13:29:03 [info] Neo4j connected
+13:29:03 [info] Redis connected
+13:29:03 [info] Simulation engine started
+13:29:03 [info] Simulation engine started (synchronous Dijkstra routing)
+13:29:03 [info] DITMS backend  →  http://localhost:5000
+13:29:03 [info] Socket.io  ←→  http://localhost:3000
+13:29:04 [info] Socket connected: vPfLFZhFX3NiV7YkAAAB
+13:29:49 [info] Socket disconnected: vPfLFZhFX3NiV7YkAAAB
+13:33:57 [info] Connecting databases...
+13:33:57 [info] PostgreSQL connected
+13:33:57 [info] MongoDB connected
+13:33:57 [info] Neo4j connected
+13:33:57 [info] Redis connected
+13:33:57 [info] Simulation engine started
+13:33:57 [info] Simulation engine started (synchronous Dijkstra routing)
+13:33:57 [info] DITMS backend  →  http://localhost:5000
+13:33:57 [info] Socket.io  ←→  http://localhost:3000
+13:34:29 [info] Connecting databases...
+13:34:29 [info] PostgreSQL connected
+13:34:29 [info] MongoDB connected
+13:34:29 [info] Neo4j connected
+13:34:29 [info] Redis connected
+13:34:29 [info] Simulation engine started
+13:34:29 [info] Simulation engine started (synchronous Dijkstra routing)
+13:34:29 [info] DITMS backend  →  http://localhost:5000
+13:34:29 [info] Socket.io  ←→  http://localhost:3000
+13:42:00 [info] Socket connected: lhS99PjZe0GH0taHAAAB
+13:44:18 [warn] Node node_a CRASHED
+13:44:21 [info] Node node_a RECOVERED
+13:51:30 [info] Socket disconnected: lhS99PjZe0GH0taHAAAB
+14:02:37 [info] Socket connected: M7YO0_WEot_MyNP6AAAD
+14:02:55 [info] Socket disconnected: M7YO0_WEot_MyNP6AAAD
+14:02:57 [info] Socket connected: Hn6ENXks3TAReLDcAAAF
+14:03:01 [info] Socket disconnected: Hn6ENXks3TAReLDcAAAF
+14:03:10 [info] Socket connected: mkGIRNUPiu7SUv7ZAAAH
+14:03:13 [info] Simulation engine started
+14:05:02 [info] Simulation engine started
+14:39:11 [info] Socket disconnected: mkGIRNUPiu7SUv7ZAAAH
+14:39:29 [info] Socket connected: MN5wB4o4kqwmDVcyAAAJ
+14:40:06 [info] Socket disconnected: MN5wB4o4kqwmDVcyAAAJ
+14:40:07 [info] Socket connected: mvzdZI8ufVKkHs6iAAAL
+14:40:08 [info] Socket disconnected: mvzdZI8ufVKkHs6iAAAL
+14:40:10 [info] Socket connected: ndOBuAfN12i9A3DzAAAN
+14:40:53 [info] Socket disconnected: ndOBuAfN12i9A3DzAAAN
+14:40:54 [info] Socket connected: cE0sfjtFEsKu20KYAAAP
+14:40:54 [info] Socket disconnected: cE0sfjtFEsKu20KYAAAP
+14:40:56 [info] Socket connected: TsSoPu_8k_HkIDs2AAAR
+14:41:14 [info] Socket disconnected: TsSoPu_8k_HkIDs2AAAR
+14:41:32 [info] Socket connected: fBB1XQwCCm6bNV8PAAAT
+14:41:39 [info] Socket disconnected: fBB1XQwCCm6bNV8PAAAT
+14:41:47 [info] Shutting down...
+14:41:54 [info] Connecting databases...
+14:41:54 [info] PostgreSQL connected
+14:41:54 [info] MongoDB connected
+14:41:54 [info] Neo4j connected
+14:41:54 [info] Redis connected
+14:41:54 [info] Simulation engine started
+14:41:54 [info] Simulation engine started (synchronous Dijkstra routing)
+14:41:54 [info] DITMS backend  →  http://localhost:5000
+14:41:54 [info] Socket.io  ←→  http://localhost:3000
+14:42:09 [info] Socket connected: HkWqf5ed4FUKkHMTAAAB
+14:43:11 [info] Simulation engine started
+14:44:41 [info] 2PC START txn=daed82e7 type=SIGNAL_SYNC
+14:44:41 [info] 2PC COMMITTED txn=daed82e7
+14:50:07 [info] Socket disconnected: HkWqf5ed4FUKkHMTAAAB
