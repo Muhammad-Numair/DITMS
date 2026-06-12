@@ -81,7 +81,7 @@ export const useSimStore = create<SimStore>((set, get) => ({
   vehicles:[], intersections:{}, accidents:[],
   blockedRoads:[], analytics:DEF, nodeStatuses:{},
   logs:[], rushHour:false, rainMode:false,
-  aiEnabled:true, spawnRate:2, connected:false,
+  aiEnabled:true, spawnRate:1, connected:false,
 
   initSocket(socket) {
     set({ socket, connected: false });

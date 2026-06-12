@@ -15,6 +15,9 @@ frontend/.next/
 frontend/out/
 frontend/dist/
 
+#logs
+backend/logs
+
 # ── Environment Secrets ────────────────────────────────────
 # Never commit your database passwords or keys to GitHub
 .env
