@@ -1,19 +1,19 @@
 FROM node:20-alpine
 WORKDIR /app
 
-# Copy configuration metadata files
-COPY package*.json ./
+# 1. Force context paths to read from the monorepo subfolder explicitly
+COPY backend/package*.json ./
 
-# Use a highly resilient install routine that bypasses lockfile matching checks
+# 2. Run a resilient dependency installation 
 RUN npm install --no-audit --no-fund
 
-# Copy the rest of the application files
-COPY . .
+# 3. Copy the rest of the backend files over 
+COPY backend/ ./
 
-# Run the TypeScript build step
+# 4. Compile the TypeScript scripts
 RUN npm run build
 
 EXPOSE 5000
 
-# Execute the compiled JavaScript file directly
+# 5. Run the compiled JS bundle directly
 CMD ["node", "dist/index.js"]
